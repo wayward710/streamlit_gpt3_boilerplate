@@ -1,6 +1,6 @@
 import openai
 
-poem = """Which of these in pure form are toxic to animals?: 
+poem = """Which of these in pure form are toxic to animals? Why?: 
 ---
 {input}
 ---

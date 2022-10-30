@@ -4,7 +4,7 @@ poem = """Which of the following are poisonous to cats or dogs?
 ---
 {input}
 ---
-These are toxic: """
+"""
 
 def set_openai_key(key):
     """Sets OpenAI key."""

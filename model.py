@@ -1,6 +1,6 @@
 import openai
 
-poem = """Which of the following are poisonous to cats or dogs?: 
+poem = """Which of the following are poisonous to cats or dogs? 
 ---
 {input}
 ---

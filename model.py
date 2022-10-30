@@ -1,10 +1,10 @@
 import openai
 
-poem = """Write a poem with the following words: 
+poem = """Which of these ingredients could be poisonous to animals?: 
 ---
 {input}
 ---
-This is the poem: """
+These ingredients could be toxic: """
 
 def set_openai_key(key):
     """Sets OpenAI key."""

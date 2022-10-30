@@ -1,6 +1,10 @@
 import openai
 
-poem = "Which of the following are poisonous to cats or dogs?\n\\n" + {input}[0]
+poem = """Which of the following in pure form are poisonous to cats or dogs?
+---
+{input}
+---
+"""
 
 
 def set_openai_key(key):

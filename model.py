@@ -1,10 +1,7 @@
 import openai
 
-poem = """Which of the following are poisonous to cats or dogs? 
----
-{input}
----
-"""
+poem = "Which of the following are poisonous to cats or dogs?\n\n" + {input}
+
 
 def set_openai_key(key):
     """Sets OpenAI key."""

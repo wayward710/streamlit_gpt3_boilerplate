@@ -1,6 +1,6 @@
 import openai
 
-poem = """Which of these ingredients could be poisonous to animals?: 
+poem = """Which of these are poisonous to animals?: 
 ---
 {input}
 ---

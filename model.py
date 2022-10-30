@@ -1,6 +1,6 @@
 import openai
 
-poem = """Which of these are highly poisonous to animals even in small quantities? Why?: 
+poem = """Which of the following are poisonous to cats or dogs?: 
 ---
 {input}
 ---
